@@ -1,0 +1,29 @@
+.container-header{
+  text-align:center;
+
+}
+.jumbotron{
+background-color: #1cd3a0;
+margin-bottom:0px;
+}
+#menulaterale{
+  background-color: #6F6D71;
+}
+#text-date{
+  font-style: oblique;
+  font-weight: bold;
+  font-family: monospace;
+}
+#subtitle{
+  font-style: oblique;
+  font-weight: bold;
+  font-family: cursive;
+  margin-bottom:1.3em;
+}
+
+a{
+  color:#0056b3;
+}
+a:link {
+  color: brown;
+}
