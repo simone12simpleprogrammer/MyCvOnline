@@ -3,11 +3,11 @@
 
 }
 .jumbotron{
-background-color: #1cd3a0;
+background-color: #ADD7AD;
 margin-bottom:0px;
 }
 #menulaterale{
-  background-color: #6F6D71;
+  background-color: #3C7474;
 }
 #text-date{
   font-style: oblique;
@@ -23,7 +23,4 @@ margin-bottom:0px;
 
 a{
   color:#0056b3;
-}
-a:link {
-  color: brown;
 }
